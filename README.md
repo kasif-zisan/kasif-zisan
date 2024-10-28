@@ -2,12 +2,8 @@
 
 I am a recent graduate with a Bachelor's of Science (BSc) in Computer Science and Engineering from East West University, with a CGPA of **3.75**. My Major is in **Intelligent Systems and Data Science** and my Minor is in **Software Engineering**. I am passionate about leveraging my skills in backend development, data science, machine learning and deep learning to create impactful and efficient solutions.
 
----
-
 ## 🔭 What I'm Working On
 I am currently looking for exciting opportunities as a **Junior Backend Software Engineer** or **Data Scientist / Machine Learning Engineer / NLP Engineer** to contribute to innovative and impactful projects while further developing my skills.
-
----
 
 ## 🛠 Skills
 
@@ -61,12 +57,8 @@ I am currently looking for exciting opportunities as a **Junior Backend Software
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
----
-
 ## 🌱 What I'm Learning
 I am continually expanding my skills in **Backend Development** and **Data Science / Machine Learning / Deep Learning**. My goal is to become a proficient Backend Developer, particularly with Django REST Framework, while enhancing my expertise in NLP, Data Science, and Machine Learning. I am also learning system design, backend software optimisation and new backend technologies such as **GraphQL** and **Redis**.
-
----
 
 ## 💼 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/kasif-zisan/)
@@ -74,6 +66,11 @@ I am continually expanding my skills in **Backend Development** and **Data Scien
 
 Feel free to check out my projects on [GitHub](https://github.com/kasif-zisan) and reach out if you'd like to connect or collaborate!
 
+Thanks for visiting, and have a great day! 😄
+
 ---
 
-Thanks for visiting, and have a great day! 😄
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasif-zisan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasif-zisan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
