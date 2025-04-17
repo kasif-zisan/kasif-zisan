@@ -1,10 +1,19 @@
 # 👋 Hello, I'm Kasif Hasnaen Zisan!
 
-I am a recent graduate with a Bachelor's of Science (BSc) in Computer Science and Engineering from East West University, with a CGPA of **3.75**. My Major is in **Intelligent Systems and Data Science** and my Minor is in **Software Engineering**. I am passionate about leveraging my skills in backend development, data science, machine learning and deep learning to create impactful and efficient solutions.
+💼 I’m currently working as a **Junior DevOps Engineer** at **ShareTrip Ltd.**, where I design and manage cloud-native infrastructure using **Kubernetes**, **Docker**, and **AWS**, implement automated CI/CD pipelines with **GitHub Actions**, **ArgoCD**, and **Kustomize**, and maintain observability stacks using **Prometheus**, **Grafana**, **Tempo**, and **Loki**.
+
+🛠️ I specialize in **Backend Engineering** with **FastAPI** and **Django REST Framework**, building secure, scalable APIs and data-driven applications. I actively collaborate with development teams to streamline deployments and optimize infrastructure for performance and reliability.
+
+🧠 I’m also passionate about **Deep Learning**, especially **Natural Language Processing (NLP)**. I’ve developed bilingual summarization and translation models using **PyTorch**, integrated into real-time web applications with **FastAPI**.
+
+🎓 I hold a **BSc in Computer Science and Engineering** from **East West University** (CGPA: **3.75**), with a Major in **Intelligent Systems and Data Science** and a Minor in **Software Engineering**.
+
+🚀 I thrive on solving practical problems through code, automation, and AI. Always eager to learn, contribute, and grow as an engineer.
 
 ## 🔭 What I'm Working On
-I am currently looking for exciting opportunities as a **Junior Backend Software Engineer** or **Data Scientist / Machine Learning Engineer / NLP Engineer** to contribute to innovative and impactful projects while further developing my skills.
+I am currently working as a **Junior DevOps Engineer** at ShareTrip Ltd., where I manage Kubernetes-based infrastructure, CI/CD pipelines, and monitoring systems. 
 
+At the same time, I am actively exploring opportunities as a **Junior Backend Software Engineer**, **Machine Learning Engineer**, or **NLP Engineer** to contribute to innovative and impactful projects while deepening my expertise in backend development and AI-driven technologies.
 ## 🛠 Skills
 
 ### Programming Languages
@@ -28,6 +37,24 @@ I am currently looking for exciting opportunities as a **Junior Backend Software
   <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+### Monitoring & Observability
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Tempo-FF7F50?style=for-the-badge&logo=grafana&logoColor=white" alt="Tempo"/>
+  <img src="https://img.shields.io/badge/Loki-00BFFF?style=for-the-badge&logo=grafana-labs&logoColor=white" alt="Loki"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/Beyla-FFD700?style=for-the-badge&logo=ebpf&logoColor=black" alt="Beyla"/>
 </p>
 
 ### Frontend
@@ -58,7 +85,9 @@ I am currently looking for exciting opportunities as a **Junior Backend Software
 </p>
 
 ## 🌱 What I'm Learning
-I am continually expanding my skills in **Backend Development** and **Data Science / Machine Learning / Deep Learning**. My goal is to become a proficient Backend Developer, particularly with Django REST Framework, while enhancing my expertise in NLP, Data Science, and Machine Learning. I am also learning system design, backend software optimisation and new backend technologies such as **GraphQL** and **Redis**.
+I am actively expanding my skills in **Backend Development**, **DevOps**, and **Machine Learning**, with a strong focus on becoming a proficient **Backend Engineer** using frameworks like **Django REST Framework** and **FastAPI**. I'm also deepening my expertise in **Natural Language Processing (NLP)**, **Deep Learning**, and **Data Science**.
+
+In parallel, I’m learning **Backend Software Optimization**, and exploring new technologies such as **GraphQL**, **Redis**, and scalable microservice architectures to build high-performance systems.
 
 ## 💼 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/kasif-zisan/)
