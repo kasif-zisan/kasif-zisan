@@ -10,12 +10,6 @@
 
 🚀 I thrive on solving practical problems through code, automation, and AI. Always eager to learn, contribute, and grow as an engineer.
 
-## 🔭 What I'm Working On
-I am currently working as a **Junior DevOps Engineer** at ShareTrip Ltd., where I manage Kubernetes-based infrastructure, CI/CD pipelines, and monitoring systems. 
-
-At the same time, I am actively exploring opportunities as a **Junior Backend Software Engineer**, **Machine Learning Engineer**, or **NLP Engineer** to contribute to innovative and impactful projects while deepening my expertise in backend development and AI-driven technologies.
-## 🛠 Skills
-
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
