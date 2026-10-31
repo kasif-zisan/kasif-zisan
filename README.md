@@ -1,92 +1,91 @@
-# 👋 Hello, I'm Kasif Hasnaen Zisan!
+# 👋 Hi, I'm Kasif Hasnaen Zisan
 
-💼 I’m currently working as a **Junior DevOps Engineer** at **Aiveen Labs LLC**, where I design and manage cloud-native infrastructure using **Kubernetes**, **Docker**, and **AWS**, implement automated CI/CD pipelines with **GitHub Actions**, **ArgoCD**, and **Kustomize**, and maintain observability stacks using **Prometheus**, **Grafana**, **Tempo**, and **Loki**.
+### Agentic AI · AgentOps · DevOps
 
-🛠️ I specialize in **Backend Engineering** with **FastAPI** and **Django REST Framework**, building secure, scalable APIs and data-driven applications. I actively collaborate with development teams to streamline deployments and optimize infrastructure for performance and reliability.
+I build **production AI agents** and the **cloud infrastructure that runs them**. My background being in DevOps means I don't just build agents: I deploy them, secure them, monitor them, and keep their costs under control.
 
-🧠 I’m also passionate about **Deep Learning**, especially **Natural Language Processing (NLP)**. I’ve developed bilingual summarization and translation models using **PyTorch**, integrated into real-time web applications with **FastAPI**.
+Based in Dhaka, Bangladesh 🇧🇩 · Open to work in a company or freelance agentic AI projects.
 
-🎓 I hold a **BSc in Computer Science and Engineering** from **East West University** (CGPA: **3.75**), with a Major in **Intelligent Systems and Data Science** and a Minor in **Software Engineering**.
+---
 
-🚀 I thrive on solving practical problems through code, automation, and AI. Always eager to learn, contribute, and grow as an engineer.
+## 🤖 My work so far
 
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
+**Agentic AI**
+- Built and deployed production agents with the **Strands Agents SDK** on **Amazon Bedrock AgentCore** (Runtime, Gateway, Memory) for US healthcare clients, including a customer-facing agent integrated with US EHR systems.
+- Built **MCP servers** with **FastMCP** for natural-language patient booking and automated visit-note processing.
 
-### Database Systems
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore"/>
-</p>
+**AgentOps**
+- Instrumented agents with **OpenTelemetry**, exporting traces and metrics to **CloudWatch** and **AWS X-Ray**, plus scripts to monitor LLM cost.
+- Secured agent deployments with private VPCs, least-privilege IAM roles, and defenses against **prompt injection** and **denial-of-wallet** attacks.
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
+**DevOps and Cloud**
+- Ran production AWS infrastructure (EKS, EC2, RDS, S3, SQS, WAF, Route 53, ALB) with GitOps and CI/CD through **GitHub Actions**, **ArgoCD**, and **Kustomize**.
+- Built observability stacks with **Prometheus**, **Grafana**, **Loki**, **Tempo**, and **Alloy**.
 
-### DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</p>
+---
 
-### Monitoring & Observability
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Tempo-FF7F50?style=for-the-badge&logo=grafana&logoColor=white" alt="Tempo"/>
-  <img src="https://img.shields.io/badge/Loki-00BFFF?style=for-the-badge&logo=grafana-labs&logoColor=white" alt="Loki"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
-  <img src="https://img.shields.io/badge/Beyla-FFD700?style=for-the-badge&logo=ebpf&logoColor=black" alt="Beyla"/>
-</p>
+## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS"/>
-</p>
+### Agentic AI
+![Strands Agents](https://img.shields.io/badge/Strands%20Agents-232F3E?style=for-the-badge)
+![FastMCP](https://img.shields.io/badge/FastMCP-0A7B83?style=for-the-badge)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bedrock AgentCore](https://img.shields.io/badge/Bedrock%20AgentCore-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Cloud, DevOps and Observability
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Backend and Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-</p>
+---
 
-### Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
+## 🌱 Currently Learning
 
-## 🌱 What I'm Learning
-I am actively expanding my skills in **Backend Development**, **DevOps**, and **Machine Learning**, with a strong focus on becoming a proficient **Backend Engineer** using frameworks like **Django REST Framework** and **FastAPI**. I'm also deepening my expertise in **Natural Language Processing (NLP)**, **Deep Learning**, and **Data Science**.
+- **RAG** with LangChain and Amazon Bedrock, moving from basic two-step RAG to agentic and hybrid RAG
+- **LangGraph** and multi-agent orchestration (orchestrator–worker designs with MCP)
+- **Evaluation and observability for LLM apps** (Langfuse, RAGAS)
+- Writing publicly about what I build and learn
 
-In parallel, I’m learning **Backend Software Optimization**, and exploring new technologies such as **GraphQL**, **Redis**, and scalable microservice architectures to build high-performance systems.
+---
 
-## 💼 Get in Touch
+## 🎓 Education and Research
+
+- **BSc in Computer Science and Engineering**, East West University (CGPA **3.75**), Major in Intelligent Systems and Data Science, Minor in Software Engineering
+- **Publication:** *Liver Cell Classification using Mask R-CNN on Whole Slide Images*, ICDMIS 2024 (Springer-indexed)
+- **Capstone:** English–Bangla text summarization and translation for finance news with Seq2Seq and Bahdanau attention, built with PyTorch and FastAPI. Team lead of 4. ([Model](https://github.com/kasif-zisan/FinSumm_FinTrans_Seq2Seq) · [Web app](https://github.com/kasif-zisan/FinSumm_FinTrans_Backend))
+
+**Certifications**
+- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/verify/M3OFMN994D4C)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/4493WF76QBGV)
+
+---
+
+## 💼 Experience
+
+- **Junior DevOps & AI Engineer**, Kochi Tech (May 2025 – Sep 2026)
+- **DevOps Intern → Junior DevOps Engineer**, ShareTrip Ltd. (Nov 2024 – May 2025)
+
+---
+
+## 📬 Get in Touch
+
+I'm open to freelance work on **Agentic AI**, **LLM agent workflows (single and multi-agent)**, **MCP Servers** and **agent deployment and monitoring**.
+
 - [LinkedIn](https://www.linkedin.com/in/kasif-zisan/)
-- [Email](mailto:zisan.kasifl@gmail.com)
-
-Feel free to check out my projects on [GitHub](https://github.com/kasif-zisan) and reach out if you'd like to connect or collaborate!
-
-Thanks for visiting, and have a great day! 😄
+- [Email](mailto:zisan.kasif@gmail.com)
