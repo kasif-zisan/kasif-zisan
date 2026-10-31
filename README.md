@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Kasif Hasnaen Zisan
 
-### Agentic AI · AgentOps · DevOps
+### Agentic AI and DevOps Professional
 
 I build **production AI agents** and the **cloud infrastructure that runs them**. My background being in DevOps means I don't just build agents: I deploy them, secure them, monitor them, and keep their costs under control.
 
 Based in Dhaka, Bangladesh 🇧🇩 · Open to work in a company or freelance agentic AI projects.
-
----
 
 ## 🤖 My work so far
 
@@ -21,8 +19,6 @@ Based in Dhaka, Bangladesh 🇧🇩 · Open to work in a company or freelance ag
 **DevOps and Cloud**
 - Ran production AWS infrastructure (EKS, EC2, RDS, S3, SQS, WAF, Route 53, ALB) with GitOps and CI/CD through **GitHub Actions**, **ArgoCD**, and **Kustomize**.
 - Built observability stacks with **Prometheus**, **Grafana**, **Loki**, **Tempo**, and **Alloy**.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -53,16 +49,12 @@ Based in Dhaka, Bangladesh 🇧🇩 · Open to work in a company or freelance ag
 ### Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
-
 ## 🌱 Currently Learning
 
 - **RAG** with LangChain and Amazon Bedrock, moving from basic two-step RAG to agentic and hybrid RAG
 - **LangGraph** and multi-agent orchestration (orchestrator–worker designs with MCP)
 - **Evaluation and observability for LLM apps** (Langfuse, RAGAS)
 - Writing publicly about what I build and learn
-
----
 
 ## 🎓 Education and Research
 
@@ -74,14 +66,10 @@ Based in Dhaka, Bangladesh 🇧🇩 · Open to work in a company or freelance ag
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/verify/M3OFMN994D4C)
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/4493WF76QBGV)
 
----
-
 ## 💼 Experience
 
 - **Junior DevOps & AI Engineer**, Kochi Tech (May 2025 – Sep 2026)
 - **DevOps Intern → Junior DevOps Engineer**, ShareTrip Ltd. (Nov 2024 – May 2025)
-
----
 
 ## 📬 Get in Touch
 
